@@ -10,7 +10,6 @@ DIRS = [
     'encrypted_strings',
     'expression_obfuscation',
     'function_pointers',
-    'macro_obfuscation',
     'redundant_code',
 ]
 
